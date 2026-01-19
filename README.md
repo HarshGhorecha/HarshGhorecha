@@ -16,9 +16,7 @@
 
 🔭 I’m currently working on enhancing my building dynamic web applications.
 
-🌱 I’m currently learning **React, Node.js, Angular, Docker**
-
-💬 Ask me about Java, Python, DBMS, or anything tech-related!
+💬 Ask me about Odoo, Java, Python, DBMS, or anything tech-related!
 
 ⚡ Fun fact: I enjoy solving complex queries and adventuring into sci-fi movie worlds.
 
